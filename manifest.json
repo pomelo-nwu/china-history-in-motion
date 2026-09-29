@@ -1,0 +1,51 @@
+{
+  "title": "一脉千年",
+  "duration": 15,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 450,
+  "chapters": [
+    {
+      "from": 0,
+      "to": 2,
+      "era": "先秦",
+      "theme": "文明初生"
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "era": "秦汉",
+      "theme": "山河一统"
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "era": "隋唐",
+      "theme": "开放交融"
+    },
+    {
+      "from": 6,
+      "to": 8,
+      "era": "宋元",
+      "theme": "知识流转"
+    },
+    {
+      "from": 8,
+      "to": 10,
+      "era": "明清",
+      "theme": "远航与变局"
+    },
+    {
+      "from": 10,
+      "to": 12,
+      "era": "近现代",
+      "theme": "变革新生"
+    }
+  ],
+  "finale": [
+    12,
+    15
+  ],
+  "music": "original pentatonic synthesis"
+}

@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+frames/
+picture.mp4
+render.log
+verification.log
