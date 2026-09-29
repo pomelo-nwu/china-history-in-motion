@@ -2,6 +2,8 @@
 
 An original **15-second motion graphic about Chinese history**, with kinetic typography, transforming silhouettes, cinnabar transitions, and an original pentatonic score.
 
+**Experiment:** This project was created to test GPT-6's ability to generate videos by writing code.
+
 [![Film poster](poster.jpg)](china-in-motion.mp4)
 
 ## Watch
@@ -52,6 +54,8 @@ Pillow and NumPy generate the graphics and original audio; the FFmpeg binary sup
 ## 一脉千年
 
 一支 15 秒的中国历史动态图形短片。以动态文字、轮廓变形、朱砂转场和原创五声音阶配乐，串起六个时代。
+
+**实验目的：** 本项目用于测试 GPT-6 通过编写代码生成视频的能力。
 
 ### 查看
 
